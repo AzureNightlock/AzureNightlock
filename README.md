@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Nocturnal Requiem 🌙</h1>
+<h1 align="center">✟𝕹𝖔𝖈𝖙𝖚𝖗𝖓𝖆𝖑 𝕽𝖊𝖖𝖚𝖎𝖊𝖒🕸️</h1>
 
 <p align="center">
   <em>"Coding is the art of weaving logic into darkness, where creation hides within silence."</em>
@@ -18,7 +18,7 @@
 
 ---
 
-## 📔 Bandit’s Secret(My Toolkit)
+## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙s🕯️:
 
 - 🐍 **Python**  
   - 🧮 NumPy  
