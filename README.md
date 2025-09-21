@@ -18,7 +18,7 @@
 
 ---
 
-## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙s🕯️:
+## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙s🕯️
 
 - 🐍 **Python**  
   - 🧮 NumPy  
@@ -38,7 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureNightlock&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6" height="160"/>
+  <a href="https://leetcode.com/ares00" target="_blank" rel="noopener noreferrer">
+  <img src="https://leetcode-stats-api.herokuapp.com/ares00" alt="LeetCode Stats for ares00" />
+</a>
+
 </p>
 
 ---
