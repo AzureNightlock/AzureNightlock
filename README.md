@@ -18,7 +18,7 @@
 
 ---
 
-## 📜 Bandit’s Secret — My Toolkit
+## 📔 Bandit’s Secret(My Toolkit)
 
 - 🐍 **Python**  
   - 🧮 NumPy  
