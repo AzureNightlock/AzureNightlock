@@ -1,7 +1,7 @@
-<h1 align="center">✟𝕹𝖔𝖈𝖙𝖚𝖗𝖓𝖆𝖑 𝕽𝖊𝖖𝖚𝖎𝖊𝖒🕸️</h1>
+<h1 align="center">🕷️ 𝕹𝖔𝖈𝖙𝖚𝖗𝖓𝖆𝖑 𝕽𝖊𝖖𝖚𝖎𝖊𝖒 🕸️</h1>
 
 <p align="center">
-  <em>"Coding is the art of weaving logic into darkness, where creation hides within silence."</em>
+  <em>“Writing code binds logic and art, which together awaken life through their beauty.”</em>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🕶️ About Me
+## 🎩 About Me 🃏
 - 🔮 Walking the thin line between **logic and art**.  
 - 🐍 Breathing life into data with **Python & AI**.  
 - 🕸️ Building **web experiences** that blur reality and shadow.  
