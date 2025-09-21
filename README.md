@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**not-ares00/not-ares00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, building projects, and learning new things.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Your Project or Learning Focus]
+- 🌱 I’m learning: [Languages, frameworks, tools]
+- 💬 Ask me about: [Topics you’re comfortable with]
+- 📫 How to reach me: [Your email or social link]
+- ⚡ Fun fact: [Something fun or quirky about you]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech I Use
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code)
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
