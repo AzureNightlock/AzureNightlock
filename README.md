@@ -38,9 +38,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
-  <a href="https://leetcode.com/ares00">
-    <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&ext=heatmap" alt="LeetCode Stats for ares00" />
-  </a>
+  <p align="center">
+    <a href="https://leetcode.com/ares00">
+      <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&ext=contest&compact=true" alt="LeetCode Contest Rating for ares00" />
+    </a>
+  </p>
 </p>
 
 ---
