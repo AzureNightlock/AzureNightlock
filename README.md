@@ -1,7 +1,7 @@
 <h1 align="center">🕷️ 𝕹𝖔𝖈𝖙𝖚𝖗𝖓𝖆𝖑 𝕽𝖊𝖖𝖚𝖎𝖊𝖒 🕸️</h1>
 
 <p align="center">
-  <em>“Writing code binds logic and art, which together awaken life through their beauty.”</em>
+  <em>“When logic and art converge in code, they do not merely solve problems—they awaken new realities.”</em>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
-  <a href="https://leetcode.com/ares00" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/ares00">
     <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&ext=heatmap" alt="LeetCode Stats for ares00" />
   </a>
 </p>
