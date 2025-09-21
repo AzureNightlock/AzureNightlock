@@ -19,9 +19,10 @@
 ---
 
 ## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙🕯️
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="center"/> 
-<span style="font-size:22px; font-weight:bold;">Python</span>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="vertical-align:middle;"/>
+  <span style="font-size:30px; font-weight:bold; vertical-align:middle;">Python</span>
+</p>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20"/> NumPy  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas  
