@@ -18,7 +18,7 @@
 
 ---
 
-## 🕯️𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙 📔
+## 📔𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙🕯️
 <h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/> 
   Python
@@ -44,7 +44,7 @@
 
 
 ---
-## 🏮𝓢𝖙𝖆𝖙𝖘 & 𝕮𝖍𝖆𝖑𝖑𝖊𝖓𝖌𝖊𝖘 ⛩️ 
+## ⛩️𝓢𝖙𝖆𝖙𝖘 & 𝕮𝖍𝖆𝖑𝖑𝖊𝖓𝖌𝖊𝖘🏮
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
@@ -52,7 +52,7 @@
 </p>
 ---
 
-## 🕯️𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘 📜 
+## 📜𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘🕯️ 
 <p align="center">
   <em>“Nothing in this world has value by itself, only the meaning we bind to it attaches worth.”</em>
 </p>
