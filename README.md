@@ -49,10 +49,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
   <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&ext=contest&compact=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=000000&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="160"/>
 </p>
----
+
 
 ## 📜 𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘🕯️ 
 <p align="center">
-  <em>“Nothing in this world has value by itself, only the meaning we bind to it attaches worth.”</em>
+  <em>“Nothing in this world has value by itself, only the meaning we bind to it defines its worth.”</em>
 </p>
