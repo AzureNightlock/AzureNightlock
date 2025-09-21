@@ -4,6 +4,10 @@
   <em>"Coding is the art of weaving logic into darkness, where creation hides within silence."</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/not-ares00/not-ares00/blob/main/test.jpg?raw=true" alt="Image Description" />
+</p>
+
 ---
 
 ## 🕶️ About Me
@@ -11,10 +15,6 @@
 - 🐍 Breathing life into data with **Python & AI**.  
 - 🕸️ Building **web experiences** that blur reality and shadow.  
 - 📖 Forever expanding my **grimoire of code** (*Bandit’s Secret*).  
-
-<p align="center">
-  <img src="https://github.com/not-ares00/not-ares00/blob/main/test.jpg?raw=true" alt="Image Description" />
-</p>
 
 ---
 
