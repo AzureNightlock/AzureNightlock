@@ -33,8 +33,8 @@
 ## 🖤 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=not-ares00&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-ares00&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureNightlock&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6" height="160"/>
 </p>
 
 ---
