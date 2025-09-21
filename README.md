@@ -13,7 +13,7 @@
 ##  𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 🃏
 - Drawn to **philosophy**, where questions matter more than answers.  
 - Fascinated by **chess**, the silent duel of minds.  
-- I write **code** without the need for coffee, only silence fuels me.
+- I write **code** without the need for **coffee**, only the silence fuels me.
 - Guided by a quiet **astuteness**, seeing patterns others overlook.  
 
 ---
@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/> 
   Python
 </h3>
-
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20"/> NumPy  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20"/> Matplotlib  
@@ -33,10 +32,8 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20"/> FastAPI  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
 <h3>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="27" style="vertical-align:middle;"/>  -->
   🌐 Web Development
 </h3>
-
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
