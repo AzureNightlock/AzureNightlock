@@ -10,10 +10,10 @@
 
 ---
 
-##  About Me 🃏
+##  𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 🃏
 - Drawn to **philosophy**, where questions matter more than answers.  
 - Fascinated by **chess**, the silent duel of minds.  
-- At home in **code**, where logic and art converge.  
+- I write **code** without the need for coffee, only silence fuels me.
 - Guided by a quiet **astuteness**, seeing patterns others overlook.  
 
 ---
@@ -33,7 +33,7 @@
   - ⚛️ React  
 
 ---
-## 🖤 Stats & Challenges ⛩️
+## ⛩️ 𝓢𝖙𝖆𝖙𝖘 & 𝕮𝖍𝖆𝖑𝖑𝖊𝖓𝖌𝖊𝖘🏮 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6" height="160"/>
@@ -41,7 +41,7 @@
 </p>
 ---
 
-## 🕯️ Closing Words
+## 📜 𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘🕯️ 
 <p align="center">
   <em>"Every line of code is a hymn. Some sing of order, others whisper of chaos."</em>
 </p>
