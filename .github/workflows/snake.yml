@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [ "main" ]
@@ -11,8 +11,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
-    # allow this job to push the generated files
     permissions:
       contents: write
 
@@ -20,7 +18,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Use the full action (animation), not svg-only
       - name: Generate snake files
         uses: Platane/snk@v3
         with:
@@ -28,6 +25,13 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      # <<< add this step >>>
+      - name: Clamp overflow (simple)
+        run: |
+          for f in dist/*.svg; do
+            sed -i 's/<svg /<svg style="overflow:hidden" /' "$f"
+          done
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
