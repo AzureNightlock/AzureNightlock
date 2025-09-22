@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [ "main" ]
@@ -11,7 +11,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     permissions:
       contents: write
 
@@ -19,13 +18,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Generate snake files
+      - name: Generate snake files (yellow squares)
         uses: Platane/snk@v3
         with:
           github_user_name: AzureNightlock
           outputs: |
-            dist/github-snake.svg?color_dots=#ffff00
-            dist/github-snake-dark.svg?palette=github-dark&color_dots=#ffff00
+            # Light theme: 0 + low→high (yellow scale)
+            dist/github-snake.svg?color_dots=#ebedf0,#fff7c2,#ffe680,#ffd24d,#ffc400
+            # Dark theme: align 0-color to GitHub dark background, then yellow scale
+            dist/github-snake-dark.svg?palette=github-dark&color_dots=#161b22,#4b3f00,#7a6b00,#b08a00,#ffd400
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
