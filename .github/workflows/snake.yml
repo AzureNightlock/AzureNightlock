@@ -18,15 +18,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Generate snake files (yellow squares)
+      - name: Generate snake files (yellow snake, default grid)
         uses: Platane/snk@v3
         with:
           github_user_name: AzureNightlock
           outputs: |
-            # Light theme: 0 + low→high (yellow scale)
-            dist/github-snake.svg?color_dots=#ebedf0,#fff7c2,#ffe680,#ffd24d,#ffc400
-            # Dark theme: align 0-color to GitHub dark background, then yellow scale
-            dist/github-snake-dark.svg?palette=github-dark&color_dots=#161b22,#4b3f00,#7a6b00,#b08a00,#ffd400
+            dist/github-snake.svg?palette=github&color_snake=#ffd400
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffd400
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
