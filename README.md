@@ -20,8 +20,8 @@
 
 ## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙🕯️
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/> 
-  Python
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/>  
+   Python
 </h3>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20"/> NumPy  
@@ -34,7 +34,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB
   
 <h3>
-  🌐 Web Development
+   🌐 Web Development
 </h3>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML  
@@ -51,7 +51,9 @@
   <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&ext=contest&compact=true" height="160"/>
 </p>
 
-
+<p align="center">
+  <img src="dist/github-snake.svg" alt="Snake animation" />
+</p>
 ## 📜 𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘🕯️ 
 <p align="center">
   <em>“Nothing in this world has value by itself, only the meaning we bind to it defines its worth.”</em>
