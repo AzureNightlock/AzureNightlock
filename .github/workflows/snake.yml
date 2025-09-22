@@ -2,15 +2,20 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours automatically
-  workflow_dispatch:  # Allows manual runs
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
   push:
-    branches:
-      - main  # Runs on pushes to main (e.g., README updates)
+    branches: [ "main" ]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    # IMPORTANT: allow this job to push to the repo
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -18,7 +23,7 @@ jobs:
       - name: Generate snake files
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: AzureNightlock
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -28,6 +33,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true  # Preserves previous commits on output branch
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
