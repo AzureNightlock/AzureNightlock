@@ -19,12 +19,16 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=yellow&color_dots=#9b59b6
       - run: |
-          # Pull the latest changes from the remote repository
-          git pull
-
-          # Add and commit the generated snake file
+          # Configure git identity
           git config user.name "GitHub Actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Pull latest changes from the remote repository using rebase
+          git pull --rebase
+
+          # Add and commit the generated snake file
           git add -A
           git commit -m "feat: generate snake animation"
+
+          # Push the changes
           git push
