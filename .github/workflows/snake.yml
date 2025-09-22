@@ -7,6 +7,11 @@ on:
 
 jobs:
   build:
+    # <<< ADD THIS BLOCK
+    permissions:
+      contents: write
+    # >>> END OF BLOCK
+
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
