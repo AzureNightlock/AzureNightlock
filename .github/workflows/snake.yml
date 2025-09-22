@@ -2,33 +2,30 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Runs every 12 hours automatically
+  workflow_dispatch:  # Allows manual runs
+  push:
+    branches:
+      - main  # Runs on pushes to main (e.g., README updates)
 
 jobs:
-  build:
-    permissions:
-      contents: write
-
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Generate snake files
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: AzureNightlock
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=yellow&color_dots=#9b59b6
-      - run: |
-          # Configure git identity
-          git config user.name "GitHub Actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          # Pull latest changes from the remote repository using rebase
-          git pull --rebase
-
-          # Add and commit the generated snake file
-          git add -A
-          git commit -m "feat: generate snake animation"
-
-          # Push the changes
-          git push
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
