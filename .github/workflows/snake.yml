@@ -11,6 +11,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
+    # allow pushing to the repo
     permissions:
       contents: write
 
@@ -18,13 +20,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Generate snake files (purple snake)
+      # Generate the snake SVGs
+      - name: Generate snake files
         uses: Platane/snk@v3
         with:
           github_user_name: AzureNightlock
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github&color_snake=#9b59b6
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#bb86fc
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Hard-clamp the SVG so nothing bleeds outside the grid
+      - name: Hard-clamp SVG to grid
+        shell: bash
+        run: |
+          for f in dist/*.svg; do
+            perl -0777 -pe '
+              # Add a style to prevent round-cap bleed
+              s{(<svg\b[^>]*>)}{$1\n  <style>*,path{stroke-linecap:butt}</style>\n}s;
+
+              # Inject a full-canvas clipPath if missing
+              s{(<svg\b[^>]*>)}{$1\n  <defs>\n    <clipPath id="vbclip"><rect x="0" y="0" width="100%" height="100%"/></clipPath>\n  </defs>\n} unless (/clipPath id="vbclip"/);
+
+              # Wrap contents in a clipped, slightly shrunken group
+              s{(</defs>\s*)}{$1\n  <g clip-path="url(#vbclip)" transform="translate(2,2) scale(0.97)">\n}s;
+
+              # Close the group before </svg>
+              s{(\s*)</svg>}{$1  </g>\n</svg>}s;
+            ' -i "$f"
+          done
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
