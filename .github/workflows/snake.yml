@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
-    # IMPORTANT: allow this job to push to the repo
+    # allow this job to push the generated files
     permissions:
       contents: write
 
@@ -20,8 +20,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # Use the full action (animation), not svg-only
       - name: Generate snake files
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: AzureNightlock
           outputs: |
