@@ -7,10 +7,9 @@ on:
 
 jobs:
   build:
-    # <<< ADD THIS BLOCK
+    # This permissions block is the crucial fix
     permissions:
       contents: write
-    # >>> END OF BLOCK
 
     runs-on: ubuntu-latest
     steps:
