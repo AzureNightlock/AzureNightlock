@@ -1,36 +1,36 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
+  # runs daily at 12:30 AM IST (which is 19:00 UTC of the previous day)
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:
-  push:
-    branches: [ "main" ]
+    - cron: "0 19 * * *"
+  workflow_dispatch:  # allow manual runs from Actions tab
+
+# give the GITHUB_TOKEN write access just for this workflow
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate snake files
-        uses: Platane/snk@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: AzureNightlock
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
