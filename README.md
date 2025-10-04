@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=000000&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&ext=contest&compact=true" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&compact=true" height="160"/>
 </p>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake-dark.svg" />
