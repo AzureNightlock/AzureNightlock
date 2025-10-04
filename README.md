@@ -50,11 +50,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=000000&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="160"/>
   <img src="https://leetcard.jacoblin.cool/ares00?theme=dark&compact=true" height="160"/>
 </p>
-<picture>
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake-dark.svg" />
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake.svg" />
-</picture>
+  </picture>
+</div> 
 
 ---
 ## 📜 𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘🕯️ 
