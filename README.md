@@ -19,58 +19,11 @@
 ---
 
 ## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙🕯️
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" style="vertical-align:middle;"/>
-  &nbsp;Python&nbsp;•&nbsp;Data&nbsp;•&nbsp;ML
-</h3>
-
 <p align="center">
-  <!-- Core / Data -->
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
-  </a>&nbsp;
-  <a href="https://numpy.org/" title="NumPy">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
-  </a>&nbsp;
-  <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/>
-  </a>&nbsp;
-  <a href="https://matplotlib.org/" title="Matplotlib">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="28" alt="Matplotlib"/>
-  </a>&nbsp;
-  <a href="https://seaborn.pydata.org/" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="28" alt="Seaborn"
-         style="background:#fff;border-radius:4px;padding:2px;"/>
-  </a>&nbsp;
-  <a href="https://pytorch.org/" title="PyTorch">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch"/>
-  </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" title="Flask">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="Flask"/>
-  </a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="MongoDB"/>
-  </a>
-</p>
-
-<h3 align="center">🌐 Web Development</h3>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript"/>
-  </a>&nbsp;
-  <a href="https://react.dev/" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,flask,fastapi,html,css,js,react,git,linux,postgres,mongodb&perline=12&theme=dark"
+    alt="Skills"
+  />
 </p>
 <h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/>  
