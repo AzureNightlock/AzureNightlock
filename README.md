@@ -19,36 +19,66 @@
 ---
 
 ## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙🕯️
-<h3>🌐 Web Development</h3>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="HTML5"/> HTML  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" alt="CSS3"/> CSS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="JavaScript"/> JavaScript  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React"/> React
-  
 <h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/>
   &nbsp;Python
 </h3>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" alt="NumPy"/> NumPy  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" alt="Pandas"/> Pandas  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" alt="Matplotlib"/> Matplotlib  
-- <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" alt="Seaborn" style="background:#fff;border-radius:3px;padding:1px;"/> Seaborn  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" alt="PyTorch"/> PyTorch  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask"/> Flask  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI"/> FastAPI  
+<!-- Python / Data stack -->
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" alt="NumPy" title="NumPy" style="vertical-align:middle;"/>
+  </span>&nbsp;NumPy  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" alt="Pandas" title="Pandas" style="vertical-align:middle;"/>
+  </span>&nbsp;Pandas  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" alt="Matplotlib" title="Matplotlib" style="vertical-align:middle;"/>
+  </span>&nbsp;Matplotlib  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20" alt="Seaborn" title="Seaborn" style="vertical-align:middle;background:#fff;border-radius:4px;padding:2px;"/>
+  </span>&nbsp;Seaborn  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" alt="PyTorch" title="PyTorch" style="vertical-align:middle;"/>
+  </span>&nbsp;PyTorch  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask" title="Flask" style="vertical-align:middle;"/>
+  </span>&nbsp;Flask  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI" title="FastAPI" style="vertical-align:middle;"/>
+  </span>&nbsp;FastAPI  
 
 <h3>🗄️ Databases</h3>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/> PostgreSQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB"/> MongoDB  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" title="PostgreSQL" style="vertical-align:middle;"/>
+  </span>&nbsp;PostgreSQL  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB" title="MongoDB" style="vertical-align:middle;"/>
+  </span>&nbsp;MongoDB  
 
-<h3>📦 Containerization</h3>
+<h3>🌐 Web Development</h3>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker"/> Docker  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" alt="Kubernetes"/> Kubernetes  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="HTML5" title="HTML5" style="vertical-align:middle;"/>
+  </span>&nbsp;HTML  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" alt="CSS3" title="CSS3" style="vertical-align:middle;"/>
+  </span>&nbsp;CSS  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="JavaScript" title="JavaScript" style="vertical-align:middle;"/>
+  </span>&nbsp;JavaScript  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React" title="React" style="vertical-align:middle;"/>
+  </span>&nbsp;React  
 
+<h3>📦 Containerisation</h3>
+
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" title="Docker" style="vertical-align:middle;"/>
+  </span>&nbsp;Docker  
+- <span style="display:inline-block;background:#0d1117;border-radius:10px;padding:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" alt="Kubernetes" title="Kubernetes" style="vertical-align:middle;"/>
+  </span>&nbsp;Kubernetes  
 
 ---
 ## ⛩️ 𝓢𝖙𝖆𝖙𝖘 & 𝕮𝖍𝖆𝖑𝖑𝖊𝖓𝖌𝖊𝖘🏮
