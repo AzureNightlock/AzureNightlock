@@ -20,14 +20,13 @@
 
 ## 📔 𝕭𝖆𝖓𝖉𝖎𝖙’𝖘 𝓢𝖊𝖈𝖗𝖊𝖙🕯️
 
-<h3>🌐 Web Development</h3>
+<center><h3>🌐 Web Development</h3></center>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/> HTML  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" alt="CSS3"/> CSS  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alt="JavaScript"/> JavaScript  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React"/> React  
 <h3>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/>
   &nbsp;Python
 </h3>
@@ -40,12 +39,12 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask"/> Flask  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI"/> FastAPI  
 
-<h3>🗄️ Databases</h3>
+<center><h3>🗄️ Databases</h3></center>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/> PostgreSQL  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB"/> MongoDB  
 
-<h3>📦 Containerisation</h3>
+<center><h3>📦 Containerisation</h3></center>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker"/> Docker  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" alt="Kubernetes"/> Kubernetes  
