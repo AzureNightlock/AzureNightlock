@@ -25,6 +25,9 @@
     alt="Skills"
   />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>
+</p>
 <h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" style="vertical-align:middle;"/>  
    Python
