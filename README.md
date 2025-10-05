@@ -66,6 +66,8 @@
   </picture>
 </div> 
 ---
+
+
 ## 📜 𝕮𝖑𝖔𝖘𝖎𝖓𝖌 𝖂𝖔𝖗𝖉𝖘🕯️ 
 <p align="center">
   <em>“Nothing in this world has value by itself, only the meaning we bind to it defines its worth.”</em>
