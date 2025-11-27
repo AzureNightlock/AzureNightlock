@@ -1,9 +1,9 @@
 <h1 align="center">🕷️ 𝕹𝖔𝖈𝖙𝖚𝖗𝖓𝖆𝖑 𝕽𝖊𝖖𝖚𝖎𝖊𝖒 🕸️</h1>
 
-<!-- 🌐 Web Development 🌐-->
+<!-- 🌐 Web Development -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=E6EDF3&background=0D1117&center=true&vCenter=true&width=700&lines=🌐+Web+Development+🌐;HTML+%7C+CSS+%7C+JavaScript+%7C+React"
+    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+React"
     alt="Web Development typing banner"
   />
 </p>
@@ -20,7 +20,7 @@
 <!-- 🐍 Python & Data -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=E6EDF3&background=0D1117&center=true&vCenter=true&width=700&lines=🐍+Python+%26+Data+🐍;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;PyTorch+%7C+Flask+%7C+FastAPI"
+    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Python+%26+Data;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;PyTorch+%7C+Flask+%7C+FastAPI"
     alt="Python and Data typing banner"
   />
 </p>
@@ -47,10 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" alt="FastAPI"/>
 </p>
 
-<!-- 🗄️ Databases -->
+<!-- 🛢️ Databases -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=E6EDF3&background=0D1117&center=true&vCenter=true&width=700&lines=🗄️+Databases+🗄️;PostgreSQL+%7C+MongoDB"
+    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Databases;PostgreSQL+%7C+MongoDB"
     alt="Databases typing banner"
   />
 </p>
@@ -63,7 +63,7 @@
 <!-- 📦 Containerisation & DevOps -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=E6EDF3&background=0D1117&center=true&vCenter=true&width=700&lines=📦+Containerisation+%26+DevOps+📦;Docker+%7C+Kubernetes"
+    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Containerisation+%26+DevOps;Docker+%7C+Kubernetes"
     alt="Containerisation typing banner"
   />
 </p>
