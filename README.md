@@ -63,7 +63,7 @@
 <!-- 📦 Containerisation & DevOps -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=📦+Containerisation+%26+DevOps+📦;Docker+%7C+Kubernetes"
+    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Containerisation+%26+DevOps;Docker+%7C+Kubernetes"
     alt="Containerisation typing banner"
   />
 </p>
