@@ -16,7 +16,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
 </p>
-
+---
 <!-- 🐍 Python & Data -->
 <p align="center">
   <img
@@ -75,7 +75,7 @@
 
 ---
 
-## ⛩️ Stats and Challenges🏮
+<h2 align="center"> ⛩️ Stats and Challenges🏮</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=000000&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="160"/>
