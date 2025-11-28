@@ -1,4 +1,4 @@
-  <h1 align="center">🕷️ My Skills 🕸️</h1>
+<h1 align="center">🕷️ My Skills 🕸️</h1>
 
 <!-- 🌐 Web Development -->
 <p align="center">
@@ -63,6 +63,8 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
 </p>
+
+---
 
 <!-- 📦 Containerisation & DevOps -->
 <p align="center">
