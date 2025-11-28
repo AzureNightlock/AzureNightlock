@@ -1,5 +1,7 @@
   <h1 align="center">🕷️ My Skills 🕸️</h1>
 
+---
+
 <!-- 🌐 Web Development -->
 <p align="center">
   <img
@@ -17,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
 </p>
 
----
+--
 
 <!-- 🐍 Python & Data -->
 <p align="center">
