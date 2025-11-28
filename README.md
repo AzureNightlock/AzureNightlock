@@ -1,4 +1,4 @@
-<h1 align="center">🕷️ 𝕹𝖔𝖈𝖙𝖚𝖗𝖓𝖆𝖑 𝕽𝖊𝖖𝖚𝖎𝖊𝖒 🕸️</h1>
+  <h1 align="center">🕷️ My Skills 🕸️</h1>
 
 <!-- 🌐 Web Development -->
 <p align="center">
@@ -75,7 +75,7 @@
 
 ---
 
-## ⛩️ 𝓢𝖙𝖆𝖙𝖘 & 𝕮𝖍𝖆𝖑𝖑𝖊𝖓𝖌𝖊𝖘🏮
+## ⛩️ Stats and Challenges🏮
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=000000&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="160"/>
