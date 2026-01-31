@@ -25,50 +25,50 @@
       </td>
     </tr>
 
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-        <br/>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <br/>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" />
-        <br/>Kubernetes
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
-        <br/>FastAPI
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
-        <br/>Flask
-      </td>
-    </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br/>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <br/>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" />
+      <br/>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+      <br/>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+      <br/>Flask
+    </td>
+  </tr>
 
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-        <br/>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-        <br/>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-        <br/>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-        <br/>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
-        <br/>Actions
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      <br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+      <br/>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <br/>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      <br/>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
+      <br/>Actions
+    </td>
+  </tr>
+</table>
 </div>
