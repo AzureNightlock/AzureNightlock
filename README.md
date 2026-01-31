@@ -1,29 +1,29 @@
 ## <div align="center">🧩 Tech Stack 🧩</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <br/>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br/>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br/>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br/>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-        <br/>C++
-      </td>
-    </tr>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br/>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br/>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+      <br/>Next.js
+    </td>
+  </tr>
 
   <tr>
     <td align="center" width="96">
@@ -43,8 +43,8 @@
       <br/>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
-      <br/>Flask
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
+      <br/>PyTorch
     </td>
   </tr>
 
