@@ -1,44 +1,47 @@
+name: Generate Snake
 
 on:
-schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours automatically
-  workflow_dispatch:  # Allows manual runs
-    - cron: "0 */12 * * *"   # every 12 hours
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Allows to manually run the job at any time
   workflow_dispatch:
-push:
+  
+  # Run on every push on the main branch
+  push:
     branches:
-      - main  # Runs on pushes to main (e.g., README updates)
-    branches: [ "main" ]
+      - main
 
 jobs:
-generate:
-runs-on: ubuntu-latest
-    timeout-minutes: 5
-    permissions:
+  generate:
+    permissions: 
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-steps:
-- name: Checkout code
-uses: actions/checkout@v4
-
-- name: Generate snake files
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
         uses: Platane/snk@v3
-with:
+        with:
+          # Name of the user to generate the snake for
           github_user_name: ${{ github.repository_owner }}
-          github_user_name: AzureNightlock
-outputs: |
+          # List of files to generate. 
+          # These must match what you are linking to in your README.
+          outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-     - name: Push to output branch
-uses: crazy-max/ghaction-github-pages@v4
-with:
-target_branch: output
-build_dir: dist
-          keep_history: true  # Preserves previous commits on output branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
           keep_history: true
-env:
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
