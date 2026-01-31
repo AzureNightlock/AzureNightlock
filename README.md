@@ -4,9 +4,9 @@
 
 **AI/ML focused - Stoic and Lucid**
 
-* 🛠 **The Stack:** Building with **Python**, **FastAPI**, and **Next.js**.
+* 🛠 **Stack:** Building with **Python**, **FastAPI**, and **Next.js**.
 * 🚀 **Current Focus:** Developing **Anzan Trainer** (Mental calculation mastery).
-* ♟️ **Analog Pursuits:** Piano & Chess. Cultivating silence, pattern recognition, and precision.
+* ♟️ **Pursuits:** Piano & Chess - Discipline, Consistency and Precision.
 
 <div align="center">
 
