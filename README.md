@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-<br>
+---
 
 # 🧩 Other Skills 🧩
 
@@ -154,7 +154,9 @@
 </tr>
 </table>
 
-## 🎯 Stats and Challenges 🎯
+---
+
+# 🎯 Stats and Challenges 🎯
 
 <table>
   <tr>
