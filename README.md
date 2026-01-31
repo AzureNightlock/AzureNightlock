@@ -1,11 +1,16 @@
 <h1 align="center">🕷️ AzureNightlock 🕷️</h1>
 
-## 🧠 About Me
-#### •  AI/ML focused. Philosophy minded.<br>  
-#### • Building with **Python**, **FastAPI**, and **Next.js** learning by shipping.
-#### • I play the Piano 🎹
-#### • I play Chess♟️
+### 🧠 About Me
 
+**AI/ML focused - Stoic and Lucid**
+
+* 🛠 **The Stack:** Building with **Python**, **FastAPI**, and **Next.js**.
+* 🚀 **Current Focus:** Developing **Anzan Trainer** (Mental calculation mastery).
+* ♟️ **Analog Pursuits:** Piano & Chess. Cultivating silence, pattern recognition, and precision.
+
+<div align="center">
+
+---
 
 <img
   src="assets/chrollo-banner-3.gif"
@@ -13,7 +18,9 @@
   style="width: 100%; max-width: 1200px; height: auto; border-radius: 14px;"
 />
 
-## ✨ Main Skills
+---
+
+# 🚀 Main Skills 🚀
 
 <table>
 <tr>
@@ -46,9 +53,9 @@
 
 <br>
 
-## 🧩 Other Skills
+# 🧩 Other Skills 🧩
 
-### 🌐 Web Development
+## 🌐 Web Development 🌐
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -83,7 +90,7 @@
 </tr>
 </table>
 
-### 🐍 Machine Learning
+## 🤖 Machine Learning 🤖
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -108,7 +115,7 @@
 </tr>
 </table>
 
-### 🛢️ Databases
+## 🛢️ Databases 🛢️
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -123,7 +130,7 @@
 </tr>
 </table>
 
-### 🧰 Other Tools
+## 🛠 Other Tools 🛠
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -147,9 +154,7 @@
 </tr>
 </table>
 
-## 📈 Stats and Challenges
-
-<div align="center">
+## 🎯 Stats and Challenges 🎯
 
 <table>
   <tr>
@@ -157,7 +162,7 @@
       <img
         height="165"
         alt="GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&hide_border=true&theme=transparent&title_color=9b59b6&icon_color=00d4ff&text_color=E6EDF3&cache_seconds=86400&v=1"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AzureNightlock&show_icons=true"
       />
     </td>
     <td>
@@ -202,8 +207,6 @@
   </tr>
 </table>
 
-</div>
-
 ---
 
 <picture>
@@ -219,3 +222,5 @@
   alt="footer"
   style="width: 100%; max-width: 1200px;"
 />
+
+</div>
