@@ -1,12 +1,15 @@
 <h1 align="center">🕷️ AzureNightlock 🕷️</h1>
 
-### 🧠 About Me
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=1000&lines=🧠+About+Me+🧠;🏛️+Discipline+and+Consistency+⛓️" alt="Typing SVG" />
+  </a>
+</div>
 
-**AI/ML focused - Stoic and Lucid**
-
-* 🛠 **Stack:** Building with **Python**, **FastAPI**, and **Next.js**.
-* 🚀 **Current Focus:** Developing **Anzan Trainer** (Mental calculation mastery).
-* ♟️ **Pursuits:** Piano & Chess - Discipline, Consistency and Precision.
+### **AI/ML focused - Stoic and Lucid**
+####  ➤  🛠 **Stack:** Building with **Python**, **FastAPI**, and **Next.js**.
+####  ➤  🚀 **Current Focus:** Developing **Anzan Trainer** (Mental calculation mastery).
+####  ➤ ♟️ **Pursuits:** Piano & Chess - Discipline, Consistency and Precision.
 
 <div align="center">
 
@@ -20,7 +23,9 @@
 
 ---
 
-# 🚀 Main Skills 🚀
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🚀+Main+Skills+🚀;📦+The+Core+Stack+📦" alt="Main Skills Typing" />
+</a>
 
 <table>
 <tr>
@@ -53,9 +58,11 @@
 
 ---
 
-# 🧩 Other Skills 🧩
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🧩+Other+Skills+🧩;🪖+The+Expanded+Arsenal+🎖️" alt="Other Skills Typing" />
+</a>
 
-## 🌐 Web Development 🌐
+### 🌐 Web Development 🌐
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -90,7 +97,7 @@
 </tr>
 </table>
 
-## 🤖 Machine Learning 🤖
+### 🤖 Machine Learning 🤖
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -115,7 +122,7 @@
 </tr>
 </table>
 
-## 🛢️ Databases 🛢️
+### 🛢️ Databases 🛢️
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -130,7 +137,7 @@
 </tr>
 </table>
 
-## 🛠 Other Tools 🛠
+### 🛠 Other Tools 🛠
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
@@ -156,55 +163,42 @@
 
 ---
 
-# 🎯 Stats and Challenges 🎯
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🎯+Stats+and+Challenges+🎯;📄+Proof+of+Work+🔎" alt="Stats Typing" />
+</a>
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img
         height="165"
         alt="GitHub stats"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AzureNightlock&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"
       />
     </td>
-    <td>
+    <td align="center">
       <img
         height="165"
         alt="GitHub streak"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=transparent&hide_border=true&ring=9b59b6&fire=00d4ff&currStreakLabel=9b59b6"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=0d1117&ring=9b59b6&fire=00d4ff&currStreakLabel=9b59b6"
       />
     </td>
   </tr>
-
   <tr>
-    <td>
+    <td colspan="2" align="center">
       <img
         height="170"
         alt="LeetCode stats"
-        src="https://leetcard.jacoblin.cool/AzureNightlock?theme=dark&compact=true"
+        src="https://leetcard.jacoblin.cool/AzureNightlock?theme=dark&compact=true&hide_border=true"
       />
     </td>
-    <td>
-      <table style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;background:#0b0b0f;max-width:360px;">
-        <tr>
-          <td style="vertical-align:middle; text-align:center;">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Skyfall_cover.png/250px-Skyfall_cover.png"
-              width="92"
-              style="border-radius:12px;"
-              alt="Skyfall cover"
-            />
-            <div style="font-size:16px;font-weight:700;color:#E6EDF3;margin-top:10px;">Skyfall</div>
-            <div style="font-size:13px;color:#9b59b6;">Adele</div>
-          </td>
-        </tr>
-      </table>
-    </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
-      <img src="assets/arch-logo.png" alt="Arch Linux" width="90" />
+      <br>
+      <img src="assets/arch-logo.png" alt="Arch Linux" width="90" style="opacity: 0.8;" />
+      <br><br>
+      <img src="https://komarev.com/ghpvc/?username=AzureNightlock&style=flat-square&color=0d1117&label=VIEWS" alt="Profile Views" />
     </td>
   </tr>
 </table>
