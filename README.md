@@ -1,95 +1,100 @@
-<h1 align="center">🕷️ My Skills 🕸️</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a202c,2d3748&height=250&section=header&text=AzureNightlock&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20•%20Data%20Science%20•%20DevOps&descSize=20&descAlignY=55" width="100%" alt="header" />
+</div>
 
-<!-- 🌐 Web Development -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+React"
-    alt="Web Development typing banner"
-  />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
-</p>
+<div align="center">
+  <a href="https://github.com/AzureNightlock">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spinning+Webs+of+Code...;Data+Science+%7C+Full+Stack+%7C+DevOps;Python+Mastery+%F0%9F%90%8D;Building+Scalable+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AzureNightlock&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
 
-<!-- 🐍 Python & Data -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Python+%26+Data;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;PyTorch+%7C+Flask+%7C+FastAPI"
-    alt="Python and Data typing banner"
-  />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28" alt="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28" alt="Pandas"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="28" alt="Matplotlib"/>
-  &nbsp;
-  <img
-    src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-    width="28"
-    alt="Seaborn"
-    style="background:#fff;border-radius:3px;padding:1px;"
-  />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" alt="PyTorch"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="28" alt="Flask"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" alt="FastAPI"/>
-</p>
+<br>
 
----
+## <div align="center">🕸️ The Arsenal 🕸️</div>
 
-<!-- 🛢️ Databases -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Databases;PostgreSQL+%7C+MongoDB"
-    alt="Databases typing banner"
-  />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="K8s" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+        <br>Postgres
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br>
 
-<!-- 📦 Containerisation & DevOps -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=24&duration=2500&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=Containerisation+%26+DevOps;Docker+%7C+Kubernetes"
-    alt="Containerisation typing banner"
-  />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="Kubernetes"/>
-</p>
+## <div align="center">⚡ Coding Metrics ⚡</div>
 
----
+<div align="center">
+  <a href="https://github.com/AzureNightlock">
+    <img src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats graph" />
+  </a>
+  <a href="https://github.com/AzureNightlock">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzureNightlock&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
+  </a>
+</div>
 
-<h2 align="center"> ⛩️ Stats and Challenges🏮</h2>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=000000&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/AzureNightlock?theme=dark&compact=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/AzureNightlock?theme=tokyonight&compact=true&font=Fira%20Code" height="100" alt="LeetCode Stats"/>
+</div>
 
----
+<br>
 
+## <div align="center">👾 Contribution Game 👾</div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake-dark.svg" />
@@ -97,3 +102,14 @@
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake.svg" width="100%" />
   </picture>
 </div>
+
+<div align="center">
+  <br>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+<br>
