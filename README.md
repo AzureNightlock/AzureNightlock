@@ -106,13 +106,13 @@
   </td>
 
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-    <br/><sub><b>Pandas</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" height="46" alt="Matplotlib" />
+    <br/><sub><b>Matplotlib</b></sub>
   </td>
 
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" height="46" alt="Matplotlib" />
-    <br/><sub><b>Matplotlib</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+    <br/><sub><b>Pandas</b></sub>
   </td>
 
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
