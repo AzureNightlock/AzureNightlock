@@ -201,7 +201,7 @@
       <img src="https://komarev.com/ghpvc/?username=AzureNightlock&style=flat-square&color=0d1117&label=VIEWS" alt="Profile Views" />
     </td>
   </tr>
-</table>>
+</table>
 
 ---
 
