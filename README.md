@@ -59,7 +59,7 @@
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🧩+Other+Skills+🧩;🪖+The+Expanded+Arsenal+🎖️" alt="Other Skills Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🧩+Other+Skills+🧩;📚+The+Side+Stack+📚" alt="Other Skills Typing" />
 </a>
 
 ### 🌐 Web Development 🌐
