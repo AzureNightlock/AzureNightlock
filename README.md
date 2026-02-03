@@ -180,7 +180,7 @@
       <img
         height="165"
         alt="GitHub streak"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AzureNightlock&theme=dark&hide_border=true&background=0d1117&ring=9b59b6&fire=00d4ff&currStreakLabel=9b59b6"
+        src="https://streak-stats.demolab.com?user=AzureNightlock&theme=dark&hide_border=true&background=0d1117&ring=9b59b6&fire=00d4ff&currStreakLabel=9b59b6"
       />
     </td>
   </tr>
@@ -196,12 +196,12 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="assets/arch-logo.png" alt="Arch Linux" width="90" style="opacity: 0.8;" />
+      <img src="assets/arch-logo.png" alt="Arch Linux" width="90" />
       <br><br>
       <img src="https://komarev.com/ghpvc/?username=AzureNightlock&style=flat-square&color=0d1117&label=VIEWS" alt="Profile Views" />
     </td>
   </tr>
-</table>
+</table>>
 
 ---
 
