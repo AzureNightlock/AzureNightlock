@@ -172,13 +172,6 @@
     <td align="center">
       <img
         height="165"
-        alt="GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=AzureNightlock&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"
-      />
-    </td>
-    <td align="center">
-      <img
-        height="165"
         alt="GitHub streak"
         src="https://streak-stats.demolab.com?user=AzureNightlock&theme=dark&hide_border=true&background=0d1117&ring=9b59b6&fire=00d4ff&currStreakLabel=9b59b6"
       />
