@@ -1,11 +1,5 @@
 <h1 align="center">🕷️ AzureNightlock 🕷️</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=1000&lines=🧠+About+Me+🧠;🏛️+Discipline+and+Consistency+⛓️" alt="Typing SVG" />
-  </a>
-</div>
-
 ### **AI/ML focused - Stoic and Lucid**
 ####  ➤  🛠 **Stack:** Building with **Python**, **FastAPI**, and **Next.js**.
 ####  ➤  🚀 **Current Focus:** Developing **Anzan Trainer** (Mental calculation mastery).
@@ -14,6 +8,14 @@
 <div align="center">
 
 ---
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1200&color=4C1D95&background=00000000&center=true&vCenter=true&width=1800&height=90&lines=Forever+set+a+precious+moon+is+lost.;The+others+mourn+him+with+ceremony+grand.;Rising+up+to+heaven+the+mighty+moon+of+frost.;With+a+melody+from+the+morning+band.;Harvest+barren+wine+spilt.;Lovers+slumber+beside+the+bloody+scarlet+eyes.;Though+cut+in+half+shall+be+your+number.;Tis+not+lost+wherein+your+advantage+lies.;Amuse+yourself+with+the+entr%27acte.;Seek+out+new+friends+once+in+a+bind.;Perhaps+to+the+east+one+can+be+tracked.;The+one+most+needed+you%27re+sure+to+find."
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
 <img
   src="assets/chrollo-banner-3.gif"
@@ -166,7 +168,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🎯+Stats+and+Challenges+🎯;📄+Proof+of+Work+🔎" alt="Stats Typing" />
 </a>
-
 <table>
   <tr>
     <td align="center">
@@ -197,7 +198,7 @@
 </table>
 
 ---
-
+### 📊 Contribution Graph 📊
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake.svg" />
