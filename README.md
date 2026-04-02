@@ -1,8 +1,10 @@
 <h1 align="center">🕷️ AzureNightlock 🕷️</h1>
 
-#### ➤ 🛠 **Stack:** Building with **Next.js**, **FastAPI**, and **PostgreSQL**  
-#### ➤ ⚙️ **Mindset:** I like tearing systems apart, understanding them deeply, and rebuilding them my own way — especially with **Nix**  
-#### ➤ ♟️ **Pursuits:** Piano & Chess
+### AI/ML and Low level systems
+#### ✦ 🛠 **Stack:** Building with **Next.js**, **FastAPI**, and **PostgreSQL**  
+#### ✦ ⚙️ **Mindset:** I like creating stuff that solves problems and rebuilding stuff my own way  
+#### ✦ ♟️ **Pursuits:** Piano & Chess
+
 
 <div align="center">
 
