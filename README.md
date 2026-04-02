@@ -1,6 +1,6 @@
 <h1 align="center">🕷️ AzureNightlock 🕷️</h1>
 
-### AI/ML and Low level systems
+### AI/ML and Low Level Systems
 #### ✦ 🛠 **Stack:** Building with **Next.js**, **FastAPI**, and **PostgreSQL**  
 #### ✦ ⚙️ **Mindset:** I like creating stuff that solves problems and rebuilding stuff my own way  
 #### ✦ ♟️ **Pursuits:** Piano & Chess
