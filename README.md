@@ -190,8 +190,6 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="assets/arch-logo.png" alt="Arch Linux" width="90" />
-      <br><br>
       <img src="https://komarev.com/ghpvc/?username=AzureNightlock&style=flat-square&color=0d1117&label=VIEWS" alt="Profile Views" />
     </td>
   </tr>
