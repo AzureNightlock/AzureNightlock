@@ -165,39 +165,6 @@
 
 ---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E6EDF3&background=00000000&center=true&vCenter=true&width=435&lines=🎯+Stats+and+Challenges+🎯;📄+Proof+of+Work+🔎" alt="Stats Typing" />
-</a>
-<table>
-  <tr>
-    <td align="center">
-      <img
-        height="165"
-        alt="GitHub streak"
-        src="https://streak-stats.demolab.com?user=AzureNightlock&theme=dark&hide_border=true&background=0d1117&ring=9b59b6&fire=00d4ff&currStreakLabel=9b59b6"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        height="170"
-        alt="LeetCode stats"
-        src="https://leetcard.jacoblin.cool/AzureNightlock?theme=dark&compact=true&hide_border=true"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br>
-      <img src="assets/arch-logo.png" alt="Arch Linux" width="90" />
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=AzureNightlock&style=flat-square&color=0d1117&label=VIEWS" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
-
----
 ### 📊 Contribution Graph 📊
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzureNightlock/AzureNightlock/output/github-snake-dark.svg" />
