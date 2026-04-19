@@ -143,9 +143,10 @@
 <table>
 <tr>
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
     <br/><sub><b>Git</b></sub>
   </td>
+  
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
     <br/><sub><b>GitHub</b></sub>
@@ -159,6 +160,11 @@
   <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
     <br/><sub><b>Kubernetes</b></sub>
+  </td>
+
+  <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
+    <img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="48" height="48" alt="Neovim" />
+    <br/><sub><b>Neovim</b></sub>
   </td>
 </tr>
 </table>
