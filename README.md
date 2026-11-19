@@ -156,10 +156,7 @@
     <br/><sub><b>Docker</b></sub>
   </td>
 
-  <td align="center" width="120" style="border:1px solid #2a2a2a;border-radius:14px;padding:12px;">
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-    <br/><sub><b>Kubernetes</b></sub>
-  </td>
+
 </tr>
 </table>
 
